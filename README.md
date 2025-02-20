@@ -22,8 +22,8 @@ ThoughtShare API is a backend service that allows users to share thoughts, react
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/thoughtshare-api.git
-   cd thoughtshare-api
+   git clone https://github.com/AOF-O5-1/Thoughts-API.git
+   cd thought-api
    ```
 2. Install dependencies:
    ```sh
@@ -31,12 +31,11 @@ ThoughtShare API is a backend service that allows users to share thoughts, react
    ```
 3. Create a `.env` file in the root directory and add:
    ```sh
-   MONGODB_URI=mongodb://127.0.0.1:27017/ThoughtShare
-   PORT=3001
+   MONGODB_URI=''
    ```
 4. Start the server:
    ```sh
-   npm run dev
+   npm start
    ```
 
 ## API Endpoints
@@ -69,7 +68,8 @@ You can use **Postman** or **Insomnia** to test the API. Ensure the
 server is running before making requests.
 
 ## Links
-repo - [Thought-API](https://github.com/AOF-O5-1/Thoughts-API)
+Repo - [Thought-API](https://github.com/AOF-O5-1/Thoughts-API)
+Tutorial - [Video](https://drive.google.com/file/d/1OaqHNK51KjF72ZsJkFHN6YStR0Ka2UpU/view)
 
 
 ## License
@@ -80,6 +80,10 @@ Contributions are welcome! Please submit a pull request or open an issue for dis
 
 
 
-## Author
-Your Name - [GitHub](https://github.com/your-profile)
+## Contact
+Ade Fajemisin 
+- [GitHub](https://github.com/AOF-O5-1)
+- [Email](marcusfajemisin@gmail.com)
+
+
 
